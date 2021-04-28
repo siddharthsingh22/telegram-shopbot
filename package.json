@@ -1,0 +1,21 @@
+{
+  "name": "amazonscraper",
+  "version": "1.0.0",
+  "description": "This app scrapes amazon ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siddharth Pratap Singh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nightmare": "^3.0.2",
+    "node-telegram-bot-api": "^0.52.0",
+    "quagga": "^0.12.1",
+    "twilio": "^3.61.0"
+  }
+}
